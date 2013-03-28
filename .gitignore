@@ -36,6 +36,6 @@ nbproject
 node_modules
 dist
 
-/less/*.css
-/sass/*.css
-/sass/modules/*.css
+/bootstrap_less/*.css
+/flatui_sass/*.css
+/flatui_sass/modules/*.css

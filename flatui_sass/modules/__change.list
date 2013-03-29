@@ -49,3 +49,6 @@ _tagsinput.sass  -  73 -> `  border-radius: 0px`
 #Share
 _share.sass      -   7 -> `  border-radius: 0px`
 _share.sass      -  27 -> `    +border-radius(0 0 0px 0px)`
+
+#Tooltip
+_tooltip.sass    -  44 -> `  +border-radius(0px)`

@@ -23,3 +23,9 @@ _progress.sass - 4 -> `  border-radius: 0px`   ==边框
 #滑动条
 _ui-slider.sass -  9 -> `  //border-radius: 50%`
 _ui-slider.sass - 31 -> `  border-radius: 0px 0 0 0px`
+
+#Pager
+_pager.sass     -  6 -> `  border-radius: 0px`
+_pager.sass     - 17 -> `        +border-radius(0px 0 0 0px)`
+_pager.sass     - 49 -> `      +border-radius(0 0px 0px 0)`
+

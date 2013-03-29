@@ -708,7 +708,7 @@ h6 {
   .dk_options li {
     padding-bottom: 3px; }
   .dk_options a {
-    border-radius: 3px;
+    border-radius: 0px;
     color: white;
     display: block;
     padding: 5px 9px;
@@ -721,7 +721,7 @@ h6 {
 
 .dk_options_inner {
   background-color: #34495e;
-  border-radius: 5px;
+  border-radius: 0px;
   margin: 0;
   max-height: 244px;
   padding: 3px 3px 0; }

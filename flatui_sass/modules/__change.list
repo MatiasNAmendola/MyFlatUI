@@ -52,3 +52,8 @@ _share.sass      -  27 -> `    +border-radius(0 0 0px 0px)`
 
 #Tooltip
 _tooltip.sass    -  44 -> `  +border-radius(0px)`
+
+#Todo
+_todo.sass       -   4 -> `  border-radius: 0px 0px 0px 0px`
+_todo.sass       -  23 -> `      border-radius: 0 0 0px 0px`
+_todo.sass       -  36 -> `  border-radius: 0px 0px 0 0`

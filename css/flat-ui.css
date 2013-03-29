@@ -646,7 +646,7 @@ h6 {
 .dk_toggle {
   background-color: #1abc9c;
   color: white;
-  border-radius: 6px;
+  border-radius: 0px;
   overflow: hidden;
   padding: 11px 45px 11px 13px;
   text-decoration: none;

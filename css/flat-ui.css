@@ -669,7 +669,7 @@ h6 {
 .select-icon {
   background: #1abc9c url("../images/select/toggle.png") no-repeat right center;
   border-left: 2px solid rgba(52, 73, 94, 0.15);
-  border-radius: 0 6px 6px 0;
+  border-radius: 0 0px 0px 0;
   height: 100%;
   position: absolute;
   right: 0;

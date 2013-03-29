@@ -6,5 +6,6 @@ _navbar.sass - 100 -> `        border-radius: 0px` ==下拉菜单链接
 _navbar.sass - 113 -> `  +border-radius(0px)`
 
 _select.sass -  17 -> `  border-radius: 0px`
+_select.sass -  41 -> `  border-radius: 0 0px 0px 0`  ==选择按钮右边框
 _select.sass -  73 -> `    border-radius: 0px` ==X-Men下拉项
 _select.sass -  87 -> `  border-radius: 0px`   ==X-Men外观

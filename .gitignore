@@ -39,4 +39,4 @@ dist
 /bootstrap_less/*.css
 /flatui_sass/*.css
 /flatui_sass/modules/*.css
-/test.html
+/test/*

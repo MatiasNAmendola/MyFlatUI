@@ -1,3 +1,7 @@
+#按钮
+_btn.sass    -  65 -> `      +border-radius(0px 0 0 0px)`  ==按钮工具条左边框
+_btn.sass    -  68 -> `      +border-radius(0 0px 0px 0)`  ==按钮工具条右边框
+
 #导航条
 _navbar.sass -  59 -> `      border-radius: 0px` ==下拉菜单外框
 _navbar.sass -  87 -> `          border-radius: 0px 0px 0 0` ==下拉菜单上边框
@@ -10,5 +14,12 @@ _select.sass -  41 -> `  border-radius: 0 0px 0px 0`  ==选择按钮右边框
 _select.sass -  73 -> `    border-radius: 0px` ==X-Men下拉项
 _select.sass -  87 -> `  border-radius: 0px`   ==X-Men外观
 
-文本框
+#文本框
 _input.sass  -  31 -> `  +border-radius(0px)`  ==边框
+
+#进度条
+_progress.sass - 4 -> `  border-radius: 0px`   ==边框
+
+#滑动条
+_ui-slider.sass -  9 -> `  //border-radius: 50%`
+_ui-slider.sass - 31 -> `  border-radius: 0px 0 0 0px`

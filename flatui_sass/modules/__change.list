@@ -29,3 +29,10 @@ _pager.sass     -  6 -> `  border-radius: 0px`
 _pager.sass     - 17 -> `        +border-radius(0px 0 0 0px)`
 _pager.sass     - 49 -> `      +border-radius(0 0px 0px 0)`
 
+#Pagination
+_pagination.sass -  7 -> `    +border-radius(0px)`
+_pagination.sass - 12 -> `        +border-radius(0px 0 0 0px)`
+_pagination.sass - 15 -> `        +border-radius(0 0px 0px 0)`
+_pagination.sass - 25 -> `          +border-radius(0px 0 0 0px)`
+_pagination.sass - 33 -> `          +border-radius(0 0px 0px 0)`
+

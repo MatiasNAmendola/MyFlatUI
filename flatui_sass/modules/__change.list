@@ -40,3 +40,8 @@ _pagination.sass - 33 -> `          +border-radius(0 0px 0px 0)`
 _toggle.sass     -  56 -> `    border-radius: 0px 0px 0px 0px`
 _toggle.sass     -  59 -> `      border-radius: 0px 0px 0px 0px`
 _toggle.sass     -  67 -> `      border-radius: 0px`
+
+#Tagsinput
+_tagsinput.sass  -   4 -> `  border-radius: 0px`
+_tagsinput.sass  -  11 -> `    border-radius: 0px`
+_tagsinput.sass  -  73 -> `  border-radius: 0px`

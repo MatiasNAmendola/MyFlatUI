@@ -57,3 +57,8 @@ _tooltip.sass    -  44 -> `  +border-radius(0px)`
 _todo.sass       -   4 -> `  border-radius: 0px 0px 0px 0px`
 _todo.sass       -  23 -> `      border-radius: 0 0 0px 0px`
 _todo.sass       -  36 -> `  border-radius: 0px 0px 0 0`
+
+#Video
+_video.sass      -   6 -> `  border-radius: 0px 0px 0 0`
+_video.sass      -  14 -> `    border-radius: 0px 0px 0 0`
+_video.sass      -  88 -> `  border-radius: 0 0 0px 0px`

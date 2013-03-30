@@ -41,3 +41,5 @@ dist
 /sass/*.css
 /sass/modules/*.css
 /test/*
+
+web.xml
